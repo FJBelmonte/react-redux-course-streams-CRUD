@@ -1,0 +1,14 @@
+{
+  "streams": [
+    {
+      "title": "Test title",
+      "description": "Test description",
+      "id": 1
+    },
+    {
+      "title": "Stream da Cah",
+      "description": "Kah2",
+      "id": 3
+    }
+  ]
+}
